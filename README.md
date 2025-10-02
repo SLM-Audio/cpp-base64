@@ -1,6 +1,6 @@
 # base64 (C++)
 
-Base64 encoding and decoding with c++
+Base64 encoding and decoding with c++ - but with a CMakeLists and nothing else
 
 ## See also
 
